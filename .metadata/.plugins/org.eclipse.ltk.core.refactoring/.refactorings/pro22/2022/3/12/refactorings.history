@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;pro22&apos;&#x0D;&#x0A;- Original project: &apos;pro22&apos;&#x0D;&#x0A;- Original element: &apos;pro22/src/main/java/com.spring.member.cibtrikker&apos;" description="Delete element" element1="/src\/main\/java&lt;com.spring.member.cibtrikker" element2="/src\/main\/java&lt;com.spring.member" element3="/src\/main\/java&lt;com.spring" element4="/src\/main\/java&lt;com" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1647216853949" subPackages="false" version="1.0"/>
+</session>

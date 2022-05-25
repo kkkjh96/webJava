@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ID 선택자 연습2</title>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script>
+        function addHtml(){
+            $("#article").html('안녕하세요' + '<br>');
+        }
+    </script>
+</head>
+<body>
+    <div>
+        <p id="article"></p>
+    </div>
+    <input type="button" value="추가하기" onclick="addHtml()">
+</body>
+</html>

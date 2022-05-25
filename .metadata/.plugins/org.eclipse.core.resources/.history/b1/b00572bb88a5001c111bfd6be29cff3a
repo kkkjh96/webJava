@@ -1,0 +1,5 @@
+package com.spring.account.controller;
+
+public interface AccountController {
+
+}
